@@ -3,5 +3,6 @@
   "blacklisted_licenses": [
       "license:c8ec637299ce3f8c0cce0b3847f454d8e7bf2aa1",
       "license:c8ec637299ce3f8c0cce0b3847f454d8e7bf2aa2"
-  ]
+  ],
+  "blacklist_message": "You Are Blacklisted From This Server By Zedk."
 }
